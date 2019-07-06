@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+#container {
+  width: 800px;
+  font-size: 0;
+}
+
+.grid {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  outline: 0px;
+}
+
+/* .grid:hover {
+  background-color: black;
+  transition: 0.5s;
+} */
